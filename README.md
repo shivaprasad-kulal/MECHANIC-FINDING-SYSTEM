@@ -50,6 +50,7 @@ Here the mechanic should upload his service details.
 Here we collect users' vehicle details. According to the user's choice, two different tabs will open. One is for a 2 wheeler and another one is for four wheeler vehicle.
 
 <h5>Choice:</h5>
+
  ![image](https://github.com/shivaprasad-kulal/MECHANIC-FINDING-SYSTEM/assets/57038598/087b428b-5708-466b-97f4-24375663f0bf)
 
 <h5>Two wheeler tab:</h5>
@@ -57,6 +58,7 @@ Here we collect users' vehicle details. According to the user's choice, two diff
  ![image](https://github.com/shivaprasad-kulal/MECHANIC-FINDING-SYSTEM/assets/57038598/29b5df93-4de6-4955-89fd-fd078cac40c3)
 
 <h5>Four wheeler tab:</h5>
+
 ![image](https://github.com/shivaprasad-kulal/MECHANIC-FINDING-SYSTEM/assets/57038598/71b7ed04-e59c-403f-95d2-afe34bfe4859)
 
  
@@ -87,9 +89,9 @@ Here users can check for mechanics using a pin code. If any mechanic is availabl
 ![image](https://github.com/shivaprasad-kulal/MECHANIC-FINDING-SYSTEM/assets/57038598/66dbfa1f-fcc0-428e-9d31-ba368b9e1a86)
 
 <h2>Technologies Used</h2>
-- MySQL
-- Java Using NetBeans
+- MySQL<br>
+- Java Using NetBeans<br>
 
 <h2>Contributors</h2>
-- Shivaprasad
-- Karthik Shetty
+- Shivaprasad<br>
+- Karthik Shetty<br>
